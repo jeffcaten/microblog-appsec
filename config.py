@@ -1,4 +1,5 @@
 import os
+import trend_app_protect.start
 from dotenv import load_dotenv
 
 basedir = os.path.abspath(os.path.dirname(__file__))
